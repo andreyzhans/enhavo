@@ -1,0 +1,9 @@
+body {
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+.notification {
+    color:brown;
+    font-weight: 700;
+}
